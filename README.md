@@ -37,5 +37,5 @@ npm start
 - Favoritar post
 
 
-Feito por Vinicius Alberti
+*Feito por Vinicius Alberti*
 
