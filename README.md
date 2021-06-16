@@ -12,13 +12,17 @@ Recursos utilizados:
 
 ## Executar a aplicação
 
-Para executar a aplicação é necessário instalar os pacotes e digitar 
+Para instalar os pacotes:
+
+```
+npm install
+```
+
+Para executar a API:
 
 ```
 npm start
 ```
-
-na linha de comando dentro da raiz do projeto.
 
 ## Funcionalidades
 
