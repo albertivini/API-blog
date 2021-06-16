@@ -1,4 +1,4 @@
-# Aplicação de Cadastro de Alunos, Instrutores e Veículos além da Marcação de Aulas
+# API Rest de um Blog
 
 Recursos utilizados:
 
