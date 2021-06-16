@@ -12,11 +12,13 @@ Recursos utilizados:
 
 ## Executar a aplicação
 
-Para executar a aplicação é necessário digitar na linha de comando dentro da raiz do projeto:
+Para executar a aplicação é necessário instalar os pacotes e digitar 
 
 ```
 npm start
 ```
+
+na linha de comando dentro da raiz do projeto.
 
 ## Funcionalidades
 
